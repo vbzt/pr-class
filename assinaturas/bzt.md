@@ -4,6 +4,6 @@ Comida favorita: Sashimi
 
 Localidade: Santo André -SP
 
-Aprendendo: NestJS
+Aprendendo: NestJS, OracleORM
 
 Sobre: Vai Palmeiras!
