@@ -4,6 +4,6 @@ Comida favorita: Pipoca
 
 Localidade: São Paulo -SP
 
-Aprendendo: Git
+Aprendendo: Git 
 
 Sobre: Vai Corinthians!
