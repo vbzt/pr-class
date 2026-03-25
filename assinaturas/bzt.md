@@ -6,4 +6,4 @@ Localidade: Santo André -SP
 
 Aprendendo: NestJS, OracleORM
 
-Sobre: Vai Palmeiras!
+Sobre: Vai Palmeiras!!
